@@ -1,1 +1,1 @@
-This is a dummy!
+A change made to the file in my local repository!
